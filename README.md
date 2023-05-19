@@ -80,5 +80,5 @@ j'essaye de faire en sorte que le maximum de personnes comprennent ce que je sui
 > Oui
 
 <p align="center">
-  <img align="center" width="60%" alt="GIF" src="[https://tenor.com/fr/view/thank-you-gif-24190018](https://tenor.com/fr/view/thank-you-gif-24190018)"/>
+  <img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/Lr4RSBQs8k9aCKKtjI/giphy.gif"/>
 </p>
