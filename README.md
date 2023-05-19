@@ -3,7 +3,7 @@
 ### Je vis à Biot en région Provence-Cote d'Azur et je suis actuellement en étude d'ingénieur niveau BAC+3 spécialité Robotique et système autonome.
 
 <p align="center">
-  <img align="center" width="60%" alt="GIF" src="https://tenor.com/fr/view/best-zeli-the-best-meme-indian-gif-14494441"/>
+  <img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/WvSjK3P8hqGA9AaUgt/giphy.gif"/>
 </p>
 
 ### Pourquoi ingénieur en robotique et pas astronaute ?
@@ -22,7 +22,7 @@ function God() {
 }
 ```
 
-<img align="right" width="55%" alt="GIF" src="https://tenor.com/fr/view/leonardo-dicaprio-gif-21978827"></img>
+<img align="right" width="55%" alt="GIF" src="https://giphy.com/gifs/dicaprio-draw-serial-8Iv5lqKwKsZ2g"></img>
 
 *Sorry, i can do nothing for you.*
 
