@@ -22,7 +22,7 @@ function God() {
 }
 ```
 
-<img align="right" width="55%" alt="GIF" src="https://giphy.com/gifs/dicaprio-draw-serial-8Iv5lqKwKsZ2g"></img>
+<img align="right" width="55%" alt="GIF" src="https://giphy.com/media/8Iv5lqKwKsZ2g/giphy.gif"></img>
 
 *Sorry, i can do nothing for you.*
 
